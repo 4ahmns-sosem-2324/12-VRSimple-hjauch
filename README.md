@@ -1,9 +1,9 @@
 # 12-VRSimple-hjauch
 
-##Fehler
+## Fehler
 Hat die ganzen Android Sachen nicht gefunden, obwohl sie gedownloadet wurden.
 
-##Versuche
+## Versuche
 Unity neu starten
 Neu installieren und suchen des Android Build Support
 Android Studio Installation, SDK, NDK und Command Line -> weitere Fehlermeldungen
